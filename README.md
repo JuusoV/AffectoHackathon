@@ -26,3 +26,12 @@ The backend/dummyimport folder contains a set of dummy data and a script for imp
 
 ### Frontend
 The backend server attempts to serve the frontend as well. Alternatively you can host the frontend on another server; just edit dist/js/http.js so that the api calls point to the backend server URL.
+
+## The team
+* [Juuso Vallius](https://github.com/JuusoV)
+* [Hilkka Lammi](https://github.com/hilkka)
+* [Tuukka Ojala](https://github.com/tuukkao)
+* [Henrik Toivakka](https://github.com/otrdiz)
+
+## License
+This work is licensed under [the MIT license](LICENSE).
